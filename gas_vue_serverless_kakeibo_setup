@@ -1,0 +1,22 @@
+Node.js install 
+
+
+node -v
+npm -v
+
+npm install -g yarn
+
+yarn --version
+
+npm install -g @vue/cli
+
+vue --version
+
+vue create gas-account-book
+
+cd gas-account-book
+
+vue add vuetify
+
+yarn serve
+
